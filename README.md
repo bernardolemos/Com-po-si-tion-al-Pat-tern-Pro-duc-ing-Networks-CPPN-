@@ -15,7 +15,7 @@
 |<img width="500" src="./examples/images/image_2.png">|<img width="500" src="./examples/images/image_4.png">|
 <img width="500" src="./examples/images/image_-v_2_-nu_8_-nhl_3_-nz_16_-ki_normal_1558119041.png">|<img width="500" src="./examples/images/image_-v_4_-nhl_16_-nu_32_1558126759.png">|
 
-#### You can also apply the generated patterns to an images using _apply_pattern_to_image.py_
+#### You can also apply the generated patterns to an image using _apply_pattern_to_image.py_
 | |
 |:-------------------------:|
 |<img width="500" src="./examples/images/combo.png">|
