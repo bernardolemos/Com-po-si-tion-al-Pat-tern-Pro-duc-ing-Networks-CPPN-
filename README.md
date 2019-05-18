@@ -6,8 +6,9 @@
 * #### [Abstract art with ml](https://janhuenermann.com/blog/abstract-art-with-ml)
 
 ### Produce abstract images and videos with neural networks
-
-![GIF](link to gif)
+||
+|:-------------------------:|
+|![GIF](https://raw.githubusercontent.com/bernardolemos/Compositional_Pattern_Producing_Networks/master/examples/videos/gif_1558184378.gif)|
 
 | | |
 |:-------------------------:|:-------------------------:|
