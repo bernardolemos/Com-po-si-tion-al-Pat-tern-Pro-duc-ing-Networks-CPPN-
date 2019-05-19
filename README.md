@@ -1,6 +1,6 @@
 # Compositional Producing-Pattern Networks
 
-## CPPN implementation using keras
+## CPPN implementation in python
 #### This work has been inpired by other previous works:
 * #### [Generating abstract patterns with tensorflow](http://blog.otoro.net/2016/03/25/generating-abstract-patterns-with-tensorflow/)
 * #### [Abstract art with ml](https://janhuenermann.com/blog/abstract-art-with-ml)
